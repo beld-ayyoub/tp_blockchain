@@ -32,4 +32,4 @@ it prints all blocksand checks if the chain is okay.
 
 finally,it changes one block's data to test that the chain becomes invalid.
 
-![Description of the image](screenshot.png)
+![Screenshot](screenshot-.png)
